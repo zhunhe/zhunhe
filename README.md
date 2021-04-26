@@ -6,5 +6,5 @@
 
 🌱 I am a student developer studying in 42Seoul. 
 
-[![juhur's 42 stats](https://badge42.herokuapp.com/api/stats/juhur)](https://github.com/JaeSeoKim/badge42)
+[![juhur's 42 stats](https://badge42.herokuapp.com/api/stats/juhur?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
