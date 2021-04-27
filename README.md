@@ -6,3 +6,5 @@
 
 [![juhur's 42 stats](https://badge42.herokuapp.com/api/stats/juhur?privacyEmail=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
+[![zhunhe's github stats](https://github-readme-stats.vercel.app/api?username=zhunhe&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhunhe&layout=compact&exclude_repo=study&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
