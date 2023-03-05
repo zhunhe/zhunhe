@@ -11,8 +11,8 @@
         <img src="https://badge42.vercel.app/api/v2/cl1lznjhz004909mmu2q78p1n/stats?cursusId=21&coalitionId=85" alt="juhur's 42 stats" align="center"/>
     </td>
     <td valign="middle" width="43.5%">
-      <a href="https://solved.ac/xuzhunhe">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xuzhunhe" align="center"/>
+      <a href="https://solved.ac/juhur">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juhur" align="center"/>
     </td>
   </tr>
 </table> 
